@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Reactjs and Firebase
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He/His/Him
+- 😄 Pronouns: ... He/Him
 <br/>
 
 ### Languages and Tools:
