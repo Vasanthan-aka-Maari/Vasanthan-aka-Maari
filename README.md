@@ -9,7 +9,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vasanthan-aka-maari.github.io/portfolio/#/)
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... a school in Karur, Tamil Nadu
+- :school: I'm currently studing in ... SRM University
 - 🔭 I’m currently working on ... Inspiring projects
 - 🌱 I’m currently learning ... Reactjs and Firebase
 - 👯 I’m looking to collaborate on ... Any of project
